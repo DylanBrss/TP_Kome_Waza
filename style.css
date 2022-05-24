@@ -90,10 +90,10 @@ tr p {
     margin-top: 30px;
 }
 
-#textPoke i {
-    margin: 20px;
+#textPoke svg {
     color: #7FA6AD;
-    font-size: 20px
+    height: 30px;
+    width: 30px;
 }
 
 #textPoke p, #textPoke h2 {
